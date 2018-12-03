@@ -1,0 +1,8 @@
+{
+	"name": "react-usefull",
+	"version": "0.0.0",
+	"description": "This package is combination of useful React (16.7 alpha >) hooks",
+	"author": "Aleksandar Ristevski",
+	"license": "MIT"
+}
+
